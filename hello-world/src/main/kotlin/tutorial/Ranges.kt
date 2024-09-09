@@ -1,4 +1,4 @@
-package com.varchar6.petcast
+package com.varchar6.petcast.tutorial
 
 fun main() {
     for (char in 'a'..'x' step 10) {

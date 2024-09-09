@@ -1,4 +1,4 @@
-package com.varchar6.petcast
+package com.varchar6.petcast.tutorial
 
 fun myFunction(fname: String) {
     println(fname + " Doe")
