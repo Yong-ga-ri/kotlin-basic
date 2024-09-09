@@ -3,5 +3,9 @@ public class Java {
 
         char a = 66;
         System.out.println(a);
+
+        while (true) {
+            System.out.println("hello");
+        }
     }
 }
